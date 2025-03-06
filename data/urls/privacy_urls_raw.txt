@@ -1,0 +1,2216 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <ol class="story-menu theme-stream initial-set">\
+                <li id="story-id-100000006555089"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/25/opinion/facebook-fine-5-billion.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    A $5 Billion Fine for Facebook Won\'92t Fix Privacy                </h2>\
+                <p class="summary" itemprop="description">The Federal Trade Commission\'92s record-breaking levy has barely dented the company\'92s stock price.</p>\
+                                    <p class="byline" itemprop="author">By The Editorial Board</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/25/opinion/25ftc-privacy/25ftc-privacy-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-25" itemprop="dateModified" content="2019-07-25">July 25, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006624298"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/23/opinion/google-ftc-facebook-fines.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    We Need a New Government Agency to Fight Facebook                </h2>\
+                <p class="summary" itemprop="description">The feds are no match (for now).</p>\
+                                    <p class="byline" itemprop="author">By Charlie Warzel</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/23/opinion/23warzelSub/23warzelSub-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-23" itemprop="dateModified" content="2019-07-23">July 23, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006614520"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/20/opinion/sunday/the-spy-business-is-booming-and-we-should-be-worried.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    The Spy Business Is Booming and We Should Be Worried                </h2>\
+                <p class="summary" itemprop="description">Spyware and hacking know-how are more available than ever, making our data more vulnerable and the world more dangerous.</p>\
+                                    <p class="byline" itemprop="author">By Bill Priestap</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/21/opinion/sunday/21priestap/21priestap-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-20" itemprop="dateModified" content="2019-07-20">July 20, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006616111"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/19/opinion/private-surveillance-industry.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Private Surveillance Is a Lethal Weapon Anybody Can Buy                </h2>\
+                <p class="summary" itemprop="description">Is it too late to rein it in?</p>\
+                                    <p class="byline" itemprop="author">By Sharon Weinberger</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/22/opinion/sunday/21Weinberger1/21Weinberger1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-19" itemprop="dateModified" content="2019-07-19">July 19, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006618148"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/18/opinion/faceapp-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    FaceApp Shows We Care About Privacy but Don\'92t Understand It                </h2>\
+                <p class="summary" itemprop="description">There are good lessons to learn from an overblown controversy.</p>\
+                                    <p class="byline" itemprop="author">By Charlie Warzel</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/18/opinion/18warzel-privacy/18warzel-privacy-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-18" itemprop="dateModified" content="2019-07-18">July 18, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006596822"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/17/opinion/google-facebook-sex-websites.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Facebook and Google Trackers Are Showing Up on Porn Sites                </h2>\
+                <p class="summary" itemprop="description">A new study scanned 22,484 pornography sites and found them riddled with trackers from major technology companies.</p>\
+                                    <p class="byline" itemprop="author">By Charlie Warzel</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/16/opinion/16warzel-privacysub/16warzel-privacysub-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-17" itemprop="dateModified" content="2019-07-17">July 17, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006601807"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/16/opinion/privacy-project-nytimes.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    What We\'92ve Learned From Our Privacy Project (So Far)                </h2>\
+                <p class="summary" itemprop="description">Privacy is an endlessly complex topic, but a few basic themes are emerging.</p>\
+                                    <p class="byline" itemprop="author">By Susan Fowler</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/16/opinion/16privacyproject-newsletter/merlin_157332666_fd48348a-18a5-4626-b498-463a88c8dfe5-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-16" itemprop="dateModified" content="2019-07-16">July 16, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006602917"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/15/opinion/intel-data-brokers.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Intel Executive: Rein In Data Brokers                </h2>\
+                <p class="summary" itemprop="description">Congress must act to protect American citizens.</p>\
+                                    <p class="byline" itemprop="author">By David A. Hoffman</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/15/opinion/sunday/15hoffman/15hoffman-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-15" itemprop="dateModified" content="2019-07-15">July 15, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006603002"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/14/opinion/kevin-mccarthy-privacy-blockchain.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Don\'92t Count on Government to Protect Your Privacy                </h2>\
+                <p class="summary" itemprop="description">Let\'92s look to technologies like blockchain and other innovations to keep our data private.</p>\
+                                    <p class="byline" itemprop="author">By Kevin McCarthy</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/14/opinion/14mccarthy-privacy/14mccarthy-privacy-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-14" itemprop="dateModified" content="2019-07-14">July 14, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006603534"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/11/opinion/data-humanitarian-aid.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Stop Surveillance Humanitarianism                </h2>\
+                <p class="summary" itemprop="description">Requiring biometric data, like iris and facial scans, sets a dangerous precedent for vital aid.</p>\
+                                    <p class="byline" itemprop="author">By Mark Latonero</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/11/opinion/11latonero-privacy2/11latonero-privacy2-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-12" itemprop="dateModified" content="2019-07-12">July 12, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                        <li id="paid-post-1" class="ad hidden"></li>\
+            </ol>\
+\
+\
+\
+<ol id="story-menu-additional-set-latest" class="story-menu theme-stream additional-set">\
+        \
+                <li id="story-id-100000006603102"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    The Racist History Behind Facial Recognition                </h2>\
+                <p class="summary" itemprop="description">When will we finally learn we cannot predict people\'92s character from their appearance?</p>\
+                                    <p class="byline" itemprop="author">By Sahil Chinoy</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/14/opinion/physiognomy1/physiognomy1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-10" itemprop="dateModified" content="2019-07-10">July 10, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006557745"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/interactive/2019/07/10/opinion/google-privacy-policy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Google\'92s 4,000-Word Privacy Policy Is a Secret History of the Internet                </h2>\
+                <p class="summary" itemprop="description">How a nascent search engine became a tech behemoth, one edit at a time.</p>\
+                                    <p class="byline" itemprop="author">By Charlie Warzel and Ash Ngu</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/06/13/opinion/google-privacy-policy-1562088817139/google-privacy-policy-1562088817139-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-10" itemprop="dateModified" content="2019-07-10">July 10, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006601768"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/09/opinion/love-island-usa.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    \'91Love Island\'92 Is a Riveting Human Rights Violation                </h2>\
+                <p class="summary" itemprop="description">No one remembers the cameras are there.</p>\
+                                    <p class="byline" itemprop="author">By Sarah Jeong</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/09/opinion/09jeong/merlin_157727316_0d069e74-2d82-469f-9d6f-d0ad9f14a2c2-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-09" itemprop="dateModified" content="2019-07-09">July 9, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006581104"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/07/opinion/google-ads.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    I Used Google Ads for Social Engineering. It Worked.                </h2>\
+                <p class="summary" itemprop="description">Ad campaigns that manipulate searchers\'92 behavior are frighteningly easy for anyone to run.</p>\
+                                    <p class="byline" itemprop="author">By Patrick Berlinquette</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/07/opinion/07berlinquette-privacy/07berlinquette-privacy-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-07" itemprop="dateModified" content="2019-07-07">July 7, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006590953"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/05/opinion/health-data-property-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Selling Your Private Information Is a Terrible Idea                </h2>\
+                <p class="summary" itemprop="description">We don\'92t allow people to sell their kidneys. We shouldn\'92t let them sell the details of their lives, either.</p>\
+                                    <p class="byline" itemprop="author">By Sarah Jeong</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/05/opinion/05healthprivacy/05healthprivacy-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-06" itemprop="dateModified" content="2019-07-06">July 6, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006589955"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/02/opinion/surveillance-state-schools.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Welcome to the K-12 Surveillance State                </h2>\
+                <p class="summary" itemprop="description">Is tech really the solution to student safety?</p>\
+                                    <p class="byline" itemprop="author">By Charlie Warzel</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/02/opinion/02warzelWeb/02warzelWeb-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-02" itemprop="dateModified" content="2019-07-02">July 2, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006585935"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/07/01/opinion/slack-chat-hackers-encryption.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    What if All Your Slack Chats Were Leaked?                </h2>\
+                <p class="summary" itemprop="description">Unless the company makes changes to its encryption and retention policies, using Slack could put your data at risk.</p>\
+                                    <p class="byline" itemprop="author">By Gennie Gebhart</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/07/01/opinion/sunday/01Gebhart/01Gebhart-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-07-01" itemprop="dateModified" content="2019-07-01">July 1, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006538483"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/06/30/opinion/immigrants-social-media.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Stop Collecting Immigrants\'92 Social Media Data                </h2>\
+                <p class="summary" itemprop="description">The Trump administration is continuing a bad policy that doesn\'92t make us safer.</p>\
+                                    <p class="byline" itemprop="author">By Faiza Patel</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/06/30/opinion/sunday/30Patel/30Patel-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-06-30" itemprop="dateModified" content="2019-06-30">June 30, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006579741"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/06/29/opinion/sunday/conficker-worm-ukraine.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    The Worm That Nearly Ate the Internet                </h2>\
+                <p class="summary" itemprop="description">It infected 10 million computers. So why did cybergeddon never arrive?</p>\
+                                    <p class="byline" itemprop="author">By Mark Bowden</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/06/30/opinion/sunday/30bowden-web/30bowden-web-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-06-29" itemprop="dateModified" content="2019-06-29">June 29, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                <li id="story-id-100000006578815"><article class="story theme-summary  " itemscope="" itemtype="http://schema.org/NewsArticle">\
+    <div class="story-body">\
+        <a class="story-link" href="https://www.nytimes.com/2019/06/27/opinion/cities-privacy-surveillance.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+            <div class="story-meta">\
+                                <h2 class="headline" itemprop="headline">\
+                    Smile, Your City Is Watching You                </h2>\
+                <p class="summary" itemprop="description">Local governments must protect your privacy as they turn to \'93smart city\'94 technology.</p>\
+                                    <p class="byline" itemprop="author">By Ben Green</p>\
+                            </div><!-- close story-meta -->\
+                            <div class="wide-thumb">\
+                    <img role="presentation" src="https://static01.nyt.com/images/2019/06/27/opinion/sunday/27Green/27Green-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl">\
+                                                        </div><!-- close wide-thumb -->\
+                    </a>\
+    </div><!-- close story-body -->\
+    <footer class="story-footer">\
+        <time class="dateline" datetime="2019-06-27" itemprop="dateModified" content="2019-06-27">June 27, 2019</time>\
+    </footer>\
+</article>\
+</li>\
+                        <li id="paid-post-2" class="ad hidden" style=""></li>\
+            \
+<li id="story-id-100000006579290-1">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/27/opinion/police-cam-facial-recognition.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">A Major Police Body Cam Company Just Banned Facial Recognition</h2>\
+<p class="summary">Its ethics board says the technology is not reliable enough to justify using.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/27/opinion/sunday/27Warzel/27Warzel-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-27T10:00:05+0000">June 27, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006572278">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/25/opinion/congress-privacy-law.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Why America Needs a Thoughtful Federal Privacy Law</h2>\
+<p class="summary">More than a dozen privacy bills have been introduced in this Congress. Here\'92s what it needs to do.</p>\
+\
+<p class="byline">By Peter M. Lefkowitz</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/25/opinion/sunday/25Citrix/25Citrix-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-25T19:00:04+0000">June 25, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006576721">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/25/opinion/congress-privacy-bill-internet.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Congress Wants Data Transparency, but It Still Doesn\'92t Understand the Internet</h2>\
+<p class="summary">Focusing on individual privacy consent does little to dismantle a system that\'92s clearly broken.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/25/opinion/25warzelWebnew/25warzelWebnew-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-25T19:00:02+0000">June 25, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006538401">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/20/opinion/queer-dating-apps.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Queer Dating Apps Are Unsafe by Design</h2>\
+<p class="summary">Privacy is particularly important for L.G.B.T.Q. people.</p>\
+\
+<p class="byline">By Ari Ezra Waldman</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/20/autossell/20WaldmanCover/20WaldmanCover-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-20T10:00:09+0000">June 20, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006566108">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Launching a Global Currency Is a Bold, Bad Move for Facebook</h2>\
+<p class="summary">The way we structure money and payments is a question for democratic institutions, not technology companies.</p>\
+\
+<p class="byline">By Matt Stoller</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/18/opinion/00stoller/00stoller-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-19T15:00:04+0000">June 19, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006547429">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/19/opinion/facebook-google-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">What if We All Just Sold Non-Creepy Advertising?</h2>\
+<p class="summary">The big ad-tech companies know how to sell ads without damaging privacy, but they choose not to.</p>\
+\
+<p class="byline">By Gabriel Weinberg</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/19/opinion/sunday/19weinberg/19759b8d8ac542d1bc080af9482e4948-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-19T10:00:07+0000">June 19, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006563174">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/18/opinion/facebook-court-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Facebook Under Oath: You Have No Expectation of Privacy</h2>\
+<p class="summary">The social media giant thinks privacy is a you problem.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/19/opinion/18warzelWeb/18warzelWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-18T19:00:02+0000">June 18, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006557244">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">In Stores, Secret Bluetooth Surveillance Tracks Your Every Move</h2>\
+<p class="summary">As you shop, \'93beacons\'94 are watching you, using hidden technology in your phone.</p>\
+\
+<p class="byline">By Michael Kwet</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/13/opinion/bluetooth-wireless-tracking-privacy-1560455728035/bluetooth-wireless-tracking-privacy-1560455728035-mediumThreeByTwo210-v2.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-14T15:19:24+0000">June 14, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006556543">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/13/opinion/timothy-carpenter-prison-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">He Won a Landmark Case for Privacy Rights. He\'92s Going to Prison Anyway.</h2>\
+<p class="summary">Those who score big victories for the civil liberties of every American sometimes lose their own freedom.</p>\
+\
+<p class="byline">By Cristian Farias</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/12/opinion/carpenter-privacy/carpenter-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-13T21:15:50+0000">June 13, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006552475">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/13/opinion/privacy-law-enforcment-congress.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">I\'92m a Judge. Here\'92s How Surveillance Is Challenging Our Legal System.</h2>\
+<p class="summary">Prosecutors have stepped into the void left by Congress\'92s failure to say how far the police can go in using investigative technology.</p>\
+\
+<p class="byline">By James Orenstein</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/13/opinion/13orenstein/13orenstein-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-13T15:08:47+0000">June 13, 2019</time>\
+</footer>\
+</article>\
+</li><li id="paid-post-3" class="ad hidden" style=""></li>\
+<li id="story-id-100000006551496-2">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/11/opinion/privacy-facebook-sexting.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">You Care More About Your Privacy Than You Think</h2>\
+<p class="summary">Plus, how to sext securely.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/11/opinion/11warzelWeb/11warzelWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-11T19:00:03+0000">June 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006538431">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/11/opinion/police-dna-warrant.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Want to See My Genes? Get a Warrant</h2>\
+<p class="summary">Should the police be able to investigate your genetic family tree for any crime, no matter how minor?</p>\
+\
+<p class="byline">By Elizabeth Joh</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/11/opinion/sunday/11Joh/a926869577db481ea5a062bfb3e26a1e-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-11T10:00:06+0000">June 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006443631">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/10/opinion/hacking-phone-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">I Needed to Save My Mother\'92s Memories. I Hacked Her Phone.</h2>\
+<p class="summary">After she died, breaking into her phone was the only way to put together the pieces of her digital life.</p>\
+\
+<p class="byline">By Leslie Berlin</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/11/opinion/10berlin-privacy/10berlin-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-10T10:00:01+0000">June 10, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006539011">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/09/opinion/facial-recognition-police-new-york-city.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">How Facial Recognition Makes You Safer</h2>\
+<p class="summary">Used properly, the software effectively identifies crime suspects without violating rights.</p>\
+\
+<p class="byline">By James O'Neill</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/07/opinion/sunday/07Oneill/07Oneill-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-09T23:00:05+0000">June 09, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006524298">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/08/opinion/sunday/privacy-congress-facebook-google.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Why Is America So Far Behind Europe on Digital Privacy?</h2>\
+<p class="summary">Legislators should seize the moment to pass meaningful protections for the digital age.</p>\
+\
+<p class="byline">By The Editorial Board</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/09/opinion/08legislation-privacy/08legislation-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-08T19:24:03+0000">June 08, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006538110">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/07/opinion/lockport-facial-recognition-schools.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Spying on Children Won\'92t Keep Them Safe</h2>\
+<p class="summary">This week my daughter\'92s school became the first in the nation to pilot facial-recognition software. The technology\'92s potential is chilling.</p>\
+\
+<p class="byline">By Jim Shultz</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/07/opinion/07shultz-privacy/07shultz-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-07T15:00:05+0000">June 07, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006492341">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/06/07/opinion/google-facebook-mergers-acquisitions-antitrust.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Roots of Big Tech Run Disturbingly Deep</h2>\
+<p class="summary">Out of more than 350 mergers by Facebook or Google, none raised serious regulatory concerns. They should have.</p>\
+\
+<p class="byline">By Tim Wu and Stuart A. Thompson</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/07/opinion/google-facebook-mergers-acquisitions-antitrust-1559921693493/google-facebook-mergers-acquisitions-antitrust-1559921693493-mediumThreeByTwo210-v2.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-07T15:00:02+0000">June 07, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452641">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/05/opinion/children-internet-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Problem With \'91Sharenting\'92</h2>\
+<p class="summary">Fears about troubling videos and excessive screen time are legitimate. But the real threat is adults\'92 disregard for their children\'92s rights and best interests.</p>\
+\
+<p class="byline">By Anya Kamenetz</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/07/opinion/sunday/05kamanetz-privacy/05kamanetz-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-05T10:07:04+0000">June 05, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006538317">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/04/opinion/google-purchases.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Why Does Google Know Everything You\'92ve Bought on Amazon for the Past Six Years?</h2>\
+<p class="summary">Sometimes it\'92s worth pausing to ask the simplest questions.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/04/opinion/04warzelWeb/04warzelWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-04T19:00:02+0000">June 04, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006476944">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/03/opinion/google-facebook-data-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">A Brief History of How Your Privacy Was Stolen</h2>\
+<p class="summary">Google and Facebook took our data \'97 and made a ton of money from it. We must fight back.</p>\
+\
+<p class="byline">By Roger McNamee</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/06/opinion/sunday/30mcnamee-privacy/81519176f60f46f7b5be1aa85822456f-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-03T14:55:12+0000">June 03, 2019</time>\
+</footer>\
+</article>\
+</li><li id="paid-post-4" class="ad hidden" style=""></li>\
+<li id="story-id-100000006534309-3">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/06/01/opinion/surveillance-cameras-work.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Cameras Came to the Newsroom. What if They Catch Us Printing Springsteen Tickets?</h2>\
+<p class="summary">My bosses put security monitors around the office. An uproar failed to ensue.</p>\
+\
+<p class="byline">By Eric Nagourney</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/01/opinion/sunday/01nagourney-privacy/01nagourney-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-06-01T15:00:04+0000">June 01, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006500530">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/30/opinion/hate-speech-law-singapore.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">This \'91Fake News\'92 Law Threatens Free Speech. But It Doesn\'92t Stop There.</h2>\
+<p class="summary">Singapore\'92s new legislation could force companies to tell the government what websites users have viewed.</p>\
+\
+<p class="byline">By Jennifer Daskal</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/01/opinion/29Daskal-privacy/29Daskal-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-30T15:42:07+0000">May 30, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006523552">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/28/opinion/online-ads.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Reason You Hate Online Ads</h2>\
+<p class="summary">The algorithms know what we\'92ll do, but not why we do it. At least not yet.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/28/opinion/28warzelWeb/28warzelWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-28T19:00:05+0000">May 28, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006525088">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/28/opinion/privacy-antitrust-facebook.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Why Privacy Is an Antitrust Issue</h2>\
+<p class="summary">The demise of Facebook\'92s competition has put our data at risk.</p>\
+\
+<p class="byline">By Dina Srinivasan</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/28/opinion/28srinivasan/28srinivasan-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-28T10:01:27+0000">May 28, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006519807">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/23/opinion/privacy-tech-companies.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Why We Should Stop Fetishizing Privacy</h2>\
+<p class="summary">Big tech companies create jobs, encourage innovation and provide valuable services free. Why would we want to break them up?</p>\
+\
+<p class="byline">By Heidi Messer</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/22/opinion/Messer-Privacy/Messer-Privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-24T00:57:58+0000">May 24, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006502769">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/22/opinion/health-care-privacy-hipaa.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">For a Longer, Healthier Life, Share Your Data</h2>\
+<p class="summary">Privacy protections are standing in the way of artificial-intelligence programs that could diagnose cancers and screen for genetic disorders.</p>\
+\
+<p class="byline">By Luke Miner</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/15/opinion/sunday/15privacy-Miner/15privacy-Miner-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-22T10:00:05+0000">May 22, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006519805">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/21/opinion/facebook-google-monopolies.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Taming the Apex Predators of Tech</h2>\
+<p class="summary">To rein in monopolies, maybe we need to rethink what a monopoly is.</p>\
+\
+<p class="byline">By Kara Swisher</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/23/opinion/sunday/21Swisher/8c9c803a6dbe4c6eacf19f7094d0f572-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-21T19:00:04+0000">May 21, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006519290">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/21/opinion/internet-security.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Internet Security Apocalypse You Probably Missed</h2>\
+<p class="summary">Last week was an online security nightmare and few people noticed. Here\'92s what you need to know.</p>\
+\
+<p class="byline">By Sarah Jeong and Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/21/opinion/21warzelWeb/21warzelWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-21T19:00:02+0000">May 21, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006518541">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/21/opinion/chip-technology-implant.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">A Chip in My Hand Unlocks My House. Why Does That Scare People?</h2>\
+<p class="summary">Implant technology can change the world \'97 unless politicians give in to the hysteria against it.</p>\
+\
+<p class="byline">By Zoltan Istvan</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/23/opinion/21Istvan/21Istvan-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-21T15:07:31+0000">May 21, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006488507">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/20/opinion/car-repair-data-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Your Car Knows When You Gain Weight</h2>\
+<p class="summary">Vehicles collect a lot of unusual data. But who owns it?</p>\
+\
+<p class="byline">By Bill Hanvey</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/22/opinion/sunday/17Hanvey/17Hanvey-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-20T10:00:07+0000">May 20, 2019</time>\
+</footer>\
+</article>\
+</li><li id="paid-post-5" class="ad hidden" style=""></li>\
+<li id="story-id-100000006510115-4">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/18/opinion/nypd-post-act-surveillance.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">San Francisco Banned Facial Recognition. New York Isn\'92t Even Close.</h2>\
+<p class="summary">The city still hasn\'92t passed a bill mandating disclosure of the use of new surveillance technologies.</p>\
+\
+<p class="byline">By The Editorial Board</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/19/opinion/18postact/18postact-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-18T18:30:05+0000">May 18, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006507415">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/17/opinion/sunday/google-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">You\'92re Not Alone When You\'92re on Google</h2>\
+<p class="summary">We know that. But the \'93privacy paradox\'94 means we still act like we are.</p>\
+\
+<p class="byline">By Jennifer Senior</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/19/opinion/sunday/19Senior/19Senior-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-17T21:16:25+0000">May 17, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006509824">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/16/opinion/columnists/facial-recognition-ban-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">San Francisco Is Right: Facial Recognition Must Be Put On Hold</h2>\
+<p class="summary">The technology is unregulated and rife with error. We shouldn\'92t deploy it without strong privacy rules.</p>\
+\
+<p class="byline">By Farhad Manjoo</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/16/opinion/16manjoo-privacy/16manjoo-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-16T10:00:14+0000">May 16, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006503407">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/14/opinion/china-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Who\'92s Afraid of China\'92s Internet Vigilantes?</h2>\
+<p class="summary">It isn\'92t just government censorship that is restricting free expression in China. It\'92s also the \'93human flesh searches.\'94</p>\
+\
+<p class="byline">By Audrey Jiajia Li</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/14/opinion/14liWeb/14liWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-14T23:48:39+0000">May 14, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006508500">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/14/opinion/data-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Throw Your Laptop Into the Sea, the Surveillance Economy Will Still Win</h2>\
+<p class="summary">Resistance is (currently) futile. Maybe it doesn\'92t have to be.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/14/opinion/14warzWeb/14warzWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-14T20:17:02+0000">May 14, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006502807">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/11/opinion/sunday/dna-tests-testing.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">How Much Does DNA Change Our Life Story?</h2>\
+<p class="summary">As my father lay dying, we decided to find out.</p>\
+\
+<p class="byline">By Karen Brown</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/13/opinion/sunday/12brown/12brown-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-11T17:52:06+0000">May 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006503489">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/11/opinion/facebook-nick-clegg-chris-hughes.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Breaking Up Facebook Is Not the Answer</h2>\
+<p class="summary">Dismantling our company won\'92t fix what\'92s wrong with social media.</p>\
+\
+<p class="byline">By Nick Clegg</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/11/opinion/11clegg/11clegg-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-11T14:10:26+0000">May 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006490351">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/09/opinion/chris-hughes-facebook.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Chris Hughes\'92s Call to Break Up Facebook: 5 Takeaways</h2>\
+<p class="summary">A co-founder is alarmed by Mark Zuckerberg\'92s power and wants to rein in the company.</p>\
+\
+<p class="byline">By The Editorial Board</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/06/01/opinion/01hughes2/01hughes2-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-09T09:15:14+0000">May 09, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006497865">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">It\'92s Time to Break Up Facebook</h2>\
+<p class="summary">Mark Zuckerberg is a good guy. But the company I helped him build is a threat to our economy and democracy.</p>\
+\
+<p class="byline">By Chris Hughes</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/09/opinion/sunday/09Hughes/09Hughes-mediumThreeByTwo210-v2.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-09T09:01:52+0000">May 09, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006497155">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Google\'92s Sundar Pichai: Privacy Should Not Be a Luxury Good</h2>\
+<p class="summary">Yes, we use data to make products more helpful for everyone. But we also protect your information.</p>\
+\
+<p class="byline">By Sundar Pichai</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/10/opinion/sunday/07Pichai/07Pichai-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-08T00:00:05+0000">May 08, 2019</time>\
+</footer>\
+</article>\
+</li><li id="paid-post-6" class="ad hidden" style=""></li>\
+<li id="story-id-100000006495842-5">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/07/opinion/data-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">We Are Drowning in Data</h2>\
+<p class="summary">Despairing about privacy isn\'92t an admission of defeat. It\'92s an acknowledgment that taking control of our data matters.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/07/opinion/07warz1/07warz1-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-07T18:16:38+0000">May 07, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006462212">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/07/opinion/tech-racism-algorithms.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Legislation That Targets the Racist Impacts of Tech</h2>\
+<p class="summary">A proposed law would make big companies determine whether their algorithms discriminate, but it\'92s lacking in some big ways.</p>\
+\
+<p class="byline">By Margot E. Kaminski and Andrew D. Selbst</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/07/opinion/07KaminskiSelbst-privacy/07KaminskiSelbst-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-07T10:08:43+0000">May 07, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006488834">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/06/opinion/7-simple-ways-to-protect-your-digital-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">7 Simple Ways to Protect Your Digital Privacy</h2>\
+<p class="summary">You\'92ve heard about plenty of privacy risks. Here\'92s what to do next.</p>\
+\
+<p class="byline">By Thorin Klosowski</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/07/09/opinion/06klosowski/cce036c0b2ad41cc82005ad39b879664-mediumThreeByTwo210.png" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-06T14:28:33+0000">May 06, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006486883">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/05/02/opinion/apple-app-store-iphone.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Why Does Apple Control Its Competitors?</h2>\
+<p class="summary">Regulators should take a close look at the iPhone App Store.</p>\
+\
+<p class="byline">By The Editorial Board</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/02/opinion/02apple-illo/02apple-illo-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-02T23:06:35+0000">May 02, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006462331">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/05/02/opinion/will-china-export-its-illiberal-innovation.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">We Should Worry About How China Uses Apps Like TikTok</h2>\
+<p class="summary">Illiberal innovations created for China\'92s vast surveilled and censored domestic market are increasingly popular overseas.</p>\
+\
+<p class="byline">By Nick Frisch and Ash Ngu</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/01/us/will-china-export-its-illiberal-innovation-promo-1556768721260/will-china-export-its-illiberal-innovation-promo-1556768721260-mediumThreeByTwo210-v3.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-02T10:03:41+0000">May 02, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006454051">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/30/opinion/police-phone-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Would You Let the Police Search Your Phone?</h2>\
+<p class="summary">We are much more likely to give consent than we think.</p>\
+\
+<p class="byline">By Roseanna Sommers and Vanessa K. Bohns</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/30/opinion/30sommersbohn-privacy/30sommersbohn-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-05-01T00:19:23+0000">May 01, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006483766">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/30/opinion/facebook-ftc-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">How to Take Back Control From Facebook</h2>\
+<p class="summary">Tech companies aren\'92t too big and powerful to be punished or regulated.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/30/opinion/30warzelNews/30warzelNews-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-30T18:17:56+0000">April 30, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006470273">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/04/30/opinion/privacy-targeted-advertising.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">These Ads Think They Know You</h2>\
+<p class="summary">We bought some ad space and targeted readers using the invisible technology of the internet.</p>\
+\
+<p class="byline">By Stuart A. Thompson</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/19/us/privacy-targeted-advertising-promo-1555705774742/privacy-targeted-advertising-promo-1555705774742-mediumThreeByTwo210-v3.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-30T10:03:15+0000">April 30, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006448095">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/28/opinion/fourth-amendment-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Losing Our Fourth Amendment Data Protection</h2>\
+<p class="summary">The courts have shielded information when we have a \'93reasonable expectation\'94 it will stay private. What happens when we stop believing?</p>\
+\
+<p class="byline">By Josephine Wolff</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/29/opinion/sunday/29Wolff/29Wolff-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-28T23:00:05+0000">April 28, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006418616">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/27/opinion/sunday/your-privacy-is-our-business.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Your Privacy Is Our Business</h2>\
+<p class="summary">Let us reassure you: You\'92re worried only because you don\'92t understand anything about anything.</p>\
+\
+<p class="byline">By Jessica Powell</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/28/opinion/sunday/28loose/28loose-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-27T18:30:06+0000">April 27, 2019</time>\
+</footer>\
+</article>\
+</li><li id="paid-post-7" class="ad hidden" style=""></li>\
+<li id="story-id-100000006478992-6">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/26/opinion/facebook-fine-ftc.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">If a $5 Billion Fine Is Chump Change, How Do You Punish Facebook?</h2>\
+<p class="summary">A trivial fine would mean the government isn\'92t just deferential to Facebook, but that it doesn\'92t truly understand its power.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/26/opinion/26Warzel-privacy/merlin_153823623_70067f8f-f9b5-460e-bdb3-f4b940ab08b3-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-26T10:00:05+0000">April 26, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006456958">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/25/opinion/privacy-poverty.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Devastating Consequences of Being Poor in the Digital Age</h2>\
+<p class="summary">When someone who is living paycheck to paycheck falls victim to an online fraud or a breach, the cascade of repercussions can be devastating.</p>\
+\
+<p class="byline">By Mary Madden</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/05/03/opinion/sunday/25Madden/25Madden-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-25T10:00:09+0000">April 25, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006473252">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/23/opinion/when-license-plate-surveillance-goes-horribly-wrong.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">When License-Plate Surveillance Goes Horribly Wrong</h2>\
+<p class="summary">The pitfalls of automated policing, where one piece of bad information can lead to a guns-drawn confrontation.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/23/opinion/23warzelWeb/23warzelWeb-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-23T19:07:18+0000">April 23, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452575">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/23/opinion/google-privacy-china.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">I Used to Work for Google. I Am a Conscientious Objector.</h2>\
+<p class="summary">American companies continue to build surveillance tools that are used to violate human rights. Workers who refuse to comply deserve protections.</p>\
+\
+<p class="byline">By Jack Poulson</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/23/opinion/sunday/23Poulson-privacy/23Poulson-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-23T16:47:31+0000">April 23, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006461354">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/21/opinion/computational-inference.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Think You\'92re Discreet Online? Think Again</h2>\
+<p class="summary">Thanks to \'93data inference\'94 technology, companies know more about you than you disclose.</p>\
+\
+<p class="byline">By Zeynep Tufekci</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/21/opinion/sunday/21tufekci-privacy/4a84828ed823463eadf2c778d9ab4c24-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-21T23:00:05+0000">April 21, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006461237">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/17/opinion/data-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Why You Can No Longer Get Lost in the Crowd</h2>\
+<p class="summary">Once, it was easy to be obscure. Technology has ended that.</p>\
+\
+<p class="byline">By Woodrow Hartzog and Evan Selinger</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/17/opinion/sunday/17hartzog-privacy/21hartzog-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-17T19:27:12+0000">April 17, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006462734">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/16/opinion/privacy-technology.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Privacy Is Too Big to Understand</h2>\
+<p class="summary">At its heart, privacy is about how data is used to take away our control.</p>\
+\
+<p class="byline">By Charlie Warzel</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/09/opinion/00Warzel_Hyperobject-Privacy/00Warzel_Hyperobject-Privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-16T18:14:05+0000">April 16, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006461621">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">We Built an \'91Unbelievable\'92 (but Legal) Facial Recognition Machine</h2>\
+<p class="summary">What we found shows the technology\'92s promise \'97 and perils.</p>\
+\
+<p class="byline">By Sahil Chinoy</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/15/opinion/facial-recognition-new-york-city-1555378712013/facial-recognition-new-york-city-1555378712013-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-16T09:59:10+0000">April 16, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006456669">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/13/opinion/china-internet-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Only Answer Is Less Internet</h2>\
+<p class="summary">Our emerging post-privacy order isn\'92t quite totalitarian, but it\'92s getting there.</p>\
+\
+<p class="byline">By Ross Douthat</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14douthat/14douthat-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-13T18:30:04+0000">April 13, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452709">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/13/opinion/sunday/the-infinite-scroll.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The Infinite Scroll</h2>\
+<p class="summary">Life under the unbreakable lure of the screen.</p>\
+\
+<p class="byline">By Christopher Lee and Aparna Nancherla</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/10/opinion/sunday/10exposures-privacy7/10exposures-privacy7-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-13T15:00:10+0000">April 13, 2019</time>\
+</footer>\
+</article>\
+</li><li id="paid-post-8" class="ad hidden" style=""></li>\
+<li id="story-id-100000006452274-7">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/12/opinion/sunday/facebook-privacy-parenting.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Facebook Is Stealing Your Family\'92s Joy</h2>\
+<p class="summary">Before you post that baby bump or college acceptance letter online, remember how much fun it used to be to share in person.</p>\
+\
+<p class="byline">By KJ Dell'Antonia</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14dellantonia/14dellantonia-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-12T14:52:57+0000">April 12, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452264">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/privacy-project-launch.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Do You Know What You\'92ve Given Up?</h2>\
+<p class="summary">Introducing The Times Privacy Project.</p>\
+\
+<p class="byline">By James Bennet</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/10/opinion/sunday/10bennet-privacy-promo/10bennet-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T02:47:10+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452733">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/sulzberger-new-york-times-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">How The Times Thinks About Privacy</h2>\
+<p class="summary">We\'92re examining our policies and practices around data, too.</p>\
+\
+<p class="byline">By A. G. Sulzberger</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/10note-privacy/10note-privacy-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T02:45:09+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006446901">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/04/10/opinion/internet-data-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">It\'92s Time to Panic About Privacy</h2>\
+<p class="summary">We claim to want it, companies claim to provide it, but we all just accept that, well, you have no privacy online.</p>\
+\
+<p class="byline">By Farhad Manjoo</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/05/opinion/internet-data-privacy-1554950224987/internet-data-privacy-1554950224987-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T00:54:31+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452327">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/internet-privacy-regulation.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">We\'92re Not Going to Take It Anymore</h2>\
+<p class="summary">We\'92ve given up too much control over our digital lives. We need a law to take some of it back.</p>\
+\
+<p class="byline">By Kara Swisher</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14swisher/14swisher-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T00:52:54+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452520">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/iphone-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">I Don\'92t Care. I Love My Phone.</h2>\
+<p class="summary">Sure, electronic eyes are spying. But look at everything this pocket computer can do!</p>\
+\
+<p class="byline">By Samantha Irby</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14irby/14irby-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T00:51:00+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006441009">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/china-internet-surveillance.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Feeling Safe in the Surveillance State</h2>\
+<p class="summary">In China, facial recognition cameras are celebrated, and many citizens believe the rest of the world is dangerous without them.</p>\
+\
+<p class="byline">By Jianan Qian</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14Qian/14Qian-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T00:48:46+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006453812">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/04/10/opinion/tech-companies-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Tech Companies Say They Care</h2>\
+<p class="summary">Companies have said for decades that we should be in charge of our data. Why now, more than ever, does it seem like we aren\'92t?</p>\
+\
+<p class="byline">By Charlie Warzel and Stuart A. Thompson</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/10/opinion/tech-companies-privacy-1554943133137/tech-companies-privacy-1554943133137-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T00:46:49+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006447851">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/sunday/privacy-capitalism.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">How Capitalism Betrayed Privacy</h2>\
+<p class="summary">The forces of wealth creation once fostered the right to be left alone. But that has changed.</p>\
+\
+<p class="byline">By Tim Wu</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14Wu/14Wu-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T00:30:55+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452289">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/04/10/opinion/privacy-survey.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Where Would You Draw the Line?</h2>\
+<p class="summary">The boundaries of privacy are evolving quickly. Show us where you would set them.</p>\
+\
+<p class="byline">By Stuart A. Thompson</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/09/opinion/privacy-survey-1554941821602/privacy-survey-1554941821602-mediumThreeByTwo210.png" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-11T00:19:55+0000">April 11, 2019</time>\
+</footer>\
+</article>\
+</li><li id="paid-post-9" class="ad hidden" style=""></li><li id="latest-page-marker" class="page-marker invisible-minimized"></li>\
+<li id="story-id-100000006373063-8">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/insurance-ai.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Insurers Want to Know How Many Steps You Took Today</h2>\
+<p class="summary">The cutting edge of the insurance industry involves adjusting premiums and policies based on new forms of surveillance.</p>\
+\
+<p class="byline">By Sarah Jeong</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/10Jeong/10Jeong-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-10T21:47:34+0000">April 10, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006442123">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/privacy-feminism.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">What Women Know About the Internet</h2>\
+<p class="summary">The digital world is not designed to keep women safe. New regulations should be.</p>\
+\
+<p class="byline">By Emily Chang</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14Chang/14Chang-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-10T21:45:36+0000">April 10, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006440632">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/genetic-testing-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">Making Babies in the Year 2045</h2>\
+<p class="summary">Huge pools of health data collected over the past generation allow you to pick many of your child\'92s genetic traits. Are you comfortable with that?</p>\
+\
+<p class="byline">By Jamie Metzl</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14Metzl/4c0ccb2c3ac042cbb576751711347bf4-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-10T21:42:26+0000">April 10, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006406013">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/sunday/privacy-religion.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">What the Bible Says About Secrets</h2>\
+<p class="summary">Scripture offers at least two views of privacy: It\'92s necessary for a healthy spiritual life, but it also provides a place where sin can be committed.</p>\
+\
+<p class="byline">By James Martin</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/14/opinion/sunday/14Martin/14Martin-mediumThreeByTwo210.jpg" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-10T21:38:54+0000">April 10, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006417624">\
+<article class="story theme-summary no-thumb ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/2019/04/10/opinion/internet-privacy-resources.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">A Bibliography on Privacy</h2>\
+<p class="summary">A running list of some of the best writing on the intersection of technology and privacy.</p>\
+\
+<p class="byline">By The New York Times</p>\
+</div><!-- close story-meta -->\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-10T21:32:00+0000">April 10, 2019</time>\
+</footer>\
+</article>\
+</li>\
+<li id="story-id-100000006452594">\
+<article class="story theme-summary  ">\
+<div class="story-body">\
+<a class="story-link" href="https://www.nytimes.com/interactive/2019/04/10/opinion/internet-privacy-terms.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project">\
+<div class="story-meta">\
+\
+<h2 class="headline">The New Terminology for Privacy</h2>\
+<p class="summary">The language of digital privacy is changing. Get acquainted.</p>\
+\
+<p class="byline">By The New York Times Opinion</p>\
+</div><!-- close story-meta -->\
+\
+<div class="wide-thumb">\
+<img role="presentation" src="https://static01.nyt.com/images/2019/04/10/us/privacy-glossary-promo-1554950585008/privacy-glossary-promo-1554950585008-mediumThreeByTwo210-v2.png" width="190" height="126" alt="" itemprop="thumbnailUrl">\
+\
+</div>\
+\
+</a>\
+</div><!-- close story-body -->\
+<footer class="story-footer">\
+<time class="dateline" datetime="2019-04-10T21:23:49+0000">April 10, 2019</time>\
+</footer>\
+</article>\
+</li></ol>}
