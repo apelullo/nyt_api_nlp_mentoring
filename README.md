@@ -1,8 +1,11 @@
 # NYT Mentoring Series: Introduction to API Programming and NLP Topic Modeling
 * **Description**: An accelerated mentoring series for fourth-year medical students interested in data science and quantitative research. The course content focuses on fundamental data science concepts in API programming, algorithm development, dataset management, unstructured data manipulation and feature engineering, and NLP topic modeling development in Python with Scikit-learn.
 * **Role**: *Lead Data Scientist, course designer, content creator, mentor, and instructor* allocated to the research mentoring program offered to fourth-year medical students
-  * **Responsibilities**: *course design* - curriculum, learning objectives, hypothetical business context, content topics, content progression, content types, live sessions, async learning; *content creation* - session lesson plan, session learning objectives, notes and discussion cues, readings, datasets, coding exercises via partial and complete python scripts; *mentoring and instruction* - facilitating live sessions, orchestrating async learning, responding to live and async questions/feedback, collaborative coding and review of student python scripts, providing ad-hoc coding examples and technical descriptions, guiding final presentation design and execution, ongoing encouragement and career advice to build rapport and student confidence.
-* **Curriculum**: *After completing the NYT Mentoring Series, students will be able to*:
+  * **Responsibilities**:
+    * *course design*: curriculum development, learning objectives, hypothetical business context, content topics, content progression, content types, live sessions, async learning;
+    * *content creation*: session lesson plans, session learning objectives, notes and discussion cues, readings, datasets, coding exercises via partial and complete python scripts;
+    * *mentoring and instruction*: facilitating live sessions, orchestrating async learning, responding to live and async questions/feedback, collaborative coding and review of student python scripts, providing ad-hoc coding examples and technical descriptions, guiding final presentation design and execution, ongoing encouragement and career advice to build rapport and student confidence.
+* **Course Objectives**: *After completing the NYT Mentoring Series, students will be able to*:
   * **Part I - API Programming**:
     * *Define* APIs, why data scientists use them, requests and responses, keys and rate limits, common design patterns and data structures, pagination, nested data, and recursion
     * *Implement a python script invoking the New York Times (NYT) API* that can:
