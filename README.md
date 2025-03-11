@@ -1,4 +1,4 @@
-# NYT Mentoring Series: Introduction to API Programming and NLP Topic Modeling
+# NYT Mentoring Series - Introduction to API Programming and NLP Topic Modeling
 * **Description**: An accelerated mentoring series for fourth-year medical students interested in data science and quantitative research. The course content focuses on fundamental data science concepts in API programming, algorithm development, dataset management, unstructured data manipulation and feature engineering, and NLP topic modeling development in Python with Scikit-learn.
 * **Role**: *Lead Data Scientist, course designer, content creator, mentor, and instructor* allocated to the research mentoring program offered to fourth-year medical students
   * **Responsibilities**:
